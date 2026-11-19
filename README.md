@@ -65,7 +65,7 @@ Seu propósito é contribuir para a organização de ocorrências, solicitaçõe
 
 Projeto acadêmico desenvolvido no curso Técnico em Desenvolvimento de Sistemas do **SENAI-SP**, em 2026.
 
-**Desenvolvedor:** Guilherme Souza
+**Desenvolvedores:** Guilherme Souza, Guilherme Henrique, Isabella, Maria Perera, Millena
 
 ---
 
