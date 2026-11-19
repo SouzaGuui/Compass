@@ -1,10 +1,19 @@
-# 🧭 Compass — Gestão de Crises Ambientais
+<h1 align="center">🧭 Compass — Gestão de Crises Ambientais</h1>
 
-\<p align="center">   \<img src="docs/screenshots/banner.png" alt="Compass" width="100%"> \</p>
+<p align="center">
+  <img src="docs/screenshots/banner.png" alt="Compass" width="100%">
+</p>
 
-\<p align="center">   Plataforma web para gestão de crises ambientais e apoio a vítimas de desastres. \</p>
+<p align="center">
+  Plataforma web para gestão de crises ambientais e apoio a vítimas de desastres.
+</p>
 
-\<p align="center">   ![PHP]\([https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white))   ![MySQL]\([https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white))   ![JavaScript]\([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black))   ![Status]\([https://img.shields.io/badge/Status-Em%20desenvolvimento-2E8B57?style=for-the-badge](https://img.shields.io/badge/Status-Em%20desenvolvimento-2E8B57?style=for-the-badge)) \</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-2E8B57?style=for-the-badge" alt="Status">
+</p>
 
 ---
 
@@ -23,12 +32,17 @@ Seu propósito é contribuir para a organização de ocorrências, solicitaçõe
 
 ## 🖥️ Demonstração
 
-\<p align="center">   \<img src="docs/screenshots/pagina-inicial.png" alt="Página inicial" width="100%">   \<br>   \<em>Página inicial do Compass\</em> \</p>
+<p align="center">
+  <img src="docs/screenshots/pagina-inicial.png" alt="Página inicial" width="100%">
+</p>
 
-\<p align="center">   \<img src="docs/screenshots/dashboard-admin.png" alt="Dashboard administrativo" width="100%">   \<br>   \<em>Painel administrativo\</em> \</p>
+<p align="center">
+  <img src="docs/screenshots/dashboard-admin.png" alt="Dashboard administrativo" width="100%">
+</p>
 
-\<p align="center">   \<img src="docs/screenshots/painel-cidadao.png" alt="Painel do cidadão" width="100%">   \<br>   \<em>Painel do cidadão\</em> \</p>
-
+<p align="center">
+  <img src="docs/screenshots/painel-cidadao.png" alt="Painel do cidadão" width="100%">
+</p>
 ## 🛠️ Tecnologias
 
 - HTML5 e CSS3
